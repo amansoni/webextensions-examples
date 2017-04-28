@@ -1,7 +1,7 @@
 {
   "extensionName": {
-    "message": "Context menu demo",
-    "description": "Name of the extension."
+    "message": "Execute",
+    "description": "Executes in a shell."
   },
 
   "extensionDescription": {
